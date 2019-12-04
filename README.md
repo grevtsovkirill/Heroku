@@ -1,5 +1,4 @@
 # Heroku
-repo for server work
+repo for test with server:
 
-can I modify in locally? @Mac
- - yes, you can! @browser
+https://fast-journey-6312.herokuapp.com
